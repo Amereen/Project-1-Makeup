@@ -1,3 +1,96 @@
 body {
-  background: lightcoral;
+  background: white;
 }
+p {
+  font-size: 100px;
+
+}
+
+#Header {
+  display: flex;
+  justify-content: center;
+  background: pink;
+  opacity: .8;
+  height: 12rem;
+  padding: 1rem;
+  size: 39pc;
+  
+}
+h1{
+  background-color: pink;
+}
+
+.makeup-products{
+justify-self: center;
+height: 15rem;
+width: auto;
+border: 2px solid #555;
+  
+  
+}
+.card {
+  background-color: pink;
+  text-align: center;
+  border: grey solid 1px;
+  padding: 5rem;
+  width: 12rem;
+  height: 22rem;
+  display: inline-grid;
+  margin: 7rem 2rem;
+  box-shadow: 3px 4px #e04b52
+  
+}
+
+btn {
+ 
+  position: relative;
+  background-color: white;
+  border: none;
+  border-radius: 100px;
+  height: 6rem;
+  width: auto;
+  color: red;
+  font-size: 70px;
+  justify-self: center;
+}
+
+button2:hover {
+  background-color: whitesmoke;
+  border: #e04b52 solid 20px;
+  color: #e04b52;
+}
+name: {
+
+}
+
+
+
+h1 {
+  color: #eee;
+  margin-bottom: 30px;
+}
+button:hover {
+  background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
