@@ -4,7 +4,7 @@ Hello! Welcome to my Maybelline makeup app!
 The project's primary objective was to develop an engaging and simple app platform for enhancing women's cosmetics purchasing experiences and access to inexpensive cosmetics.
 ## Usage
 
-In my app you I have included a like button '♥' that can be clicked several times . This "like" button also places the item in your shopping cart. As so long as you continue to like a product, you can add multiple quantities of it.
+In my app I have included a like button '♥' that can be clicked several times . This "like" button also places the item in your shopping cart. As so long as you continue to like a product, you can add multiple quantities of it.
 <img width="374" alt="Screen Shot 2022-10-13 at 6 16 37 PM" src="https://user-images.githubusercontent.com/109322301/195721043-89b4c954-145b-4e34-a4a0-d6b80e113aea.png">
  ## Hidden Feautures
 
