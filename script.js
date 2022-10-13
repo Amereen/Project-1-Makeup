@@ -113,3 +113,6 @@ cartContainer.addEventListener('click', function () {
 
 	cartSection.classList.remove('hide');
 });
+
+
+
