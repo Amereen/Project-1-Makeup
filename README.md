@@ -8,7 +8,7 @@ In my app I have included a like button '♥' that can be clicked several times 
 <img width="374" alt="Screen Shot 2022-10-13 at 6 16 37 PM" src="https://user-images.githubusercontent.com/109322301/195721043-89b4c954-145b-4e34-a4a0-d6b80e113aea.png">
  ## Hidden Feautures
 
-If you hover your mouse over any product image, a complete product description will appear. The display will be hidden as you move your cursor away from the product image.
+If you hover your mouse over any product image, a complete product description will appear. The description will disappear as you move your cursor away from the product image.
  <img width="1331" alt="Screen Shot 2022-10-13 at 6 21 55 PM" src="https://user-images.githubusercontent.com/109322301/195721715-7f42c4a0-0dd9-4bdb-ace9-a1ed9fd74279.png">
 ## Sources
 
